@@ -1,6 +1,6 @@
 # Frontend Mentor Solutions
 
-This repository contains various Frontend Mentor projects.
+This repository contains various Frontend Mentor project submissions.
 Frontend Mentor help frontend engineers improve their design solutions through task challenges.
 
 ## Projects
